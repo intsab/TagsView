@@ -38,7 +38,8 @@ And Now Simply use Tagview as following..
             }
         });
  ```
- Methods .withBackground(R.drawable.my_bg).withCustomText(Color.parseColor("#000000"), 14) are OPTIONAL
+
+Methods .withBackground(R.drawable.my_bg).withCustomText(Color.parseColor("#000000"), 14) are OPTIONAL AND also you can call drawTags(items) with items only. 
         
 # Screenshot
 <img src="https://github.com/intsab/TagsView-Android/blob/master/Screenshot_20180124-142156.png">
