@@ -37,8 +37,8 @@ And Now Simply use Tagview as following..
                 Toast.makeText(MainActivity.this, ""+item.getTitle(), Toast.LENGTH_SHORT).show();
             }
         });
-     ```
-     Methods .withBackground(R.drawable.my_bg).withCustomText(Color.parseColor("#000000"), 14) are OPTIONAL
+ ```
+ Methods .withBackground(R.drawable.my_bg).withCustomText(Color.parseColor("#000000"), 14) are OPTIONAL
         
 # Screenshot
 <img src="https://github.com/intsab/TagsView-Android/blob/master/Screenshot_20180124-142156.png">
