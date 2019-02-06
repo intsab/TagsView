@@ -1,6 +1,22 @@
 # TagsView
 TagView is the library that create view as Tags on website with icon.
 
+# Gradle
+Step 1. Add the JitPack repository to your build file
+```java
+allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+ ```
+ Step 2. Add the dependency
+```java
+dependencies {
+	        implementation 'com.github.intsab:TagsView-Android:Tag'
+	}
+```
 # Properties:
 1- You can set icon with url or with resource. <br>
 2- You can change text color, text size of Tag. <br>
