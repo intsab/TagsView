@@ -14,7 +14,7 @@ allprojects {
  Step 2. Add the dependency
 ```java
 dependencies {
-	        implementation 'com.github.intsab:TagsView-Android:Tag'
+	        implementation 'com.github.intsab:TagsView-Android:1.2'
 	}
 ```
 # Properties:
